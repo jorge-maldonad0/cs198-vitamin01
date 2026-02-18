@@ -1,0 +1,1 @@
+It took me a while to figure out how to push to the repo because of HTTPS and SSH issues. I am glad I was able to figure it out. 
